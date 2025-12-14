@@ -76,8 +76,8 @@ The dashboard is designed for non-technical stakeholders, enabling quick explora
 
 ## 🎯 Insights and Business Recommendation
 - **Sales dropped 17.7% in February from January before recovering.** <br>
-  💡 Investigate the February drop (Was it a seasonality issue like holiday or inventory issue). Use this cyclical data to schedule a large-scale promotional event (e.g., a "February Savings" or “Valentine’s Promotion” for underperforming product lines like “Health and Beauty” and “Home and Lifestyle”) next year to stabilize the trend.
+  💡 Recommendation: Investigate the February drop (Was it a seasonality issue like holiday or inventory issue). Use this cyclical data to schedule a large-scale promotional event (e.g., a "February Savings" or “Valentine’s Promotion” for underperforming product lines like “Health and Beauty” and “Home and Lifestyle”) next year to stabilize the trend.
 - **Naypyitaw has the highest total sales of $110,491 and the highest customer satisfaction of 7.1.** <br>
-  💡 Deep-dive into Naypyitaw's inventory and promotional strategy for top-selling products (Food & Beverages) and implement those strategies in Mandalay and Yangon to boost their performance.
+  💡 Recommendation: Deep-dive into Naypyitaw's inventory and promotional strategy for top-selling products (Food & Beverages) and implement those strategies in Mandalay and Yangon to boost their performance.
 - **Member customers drive higher total sales of $163,625 (compared to non-member $157,261) and have a higher AOV $327.90 (as opposed to $317.10 from non-member). However, difference is not vastly different.** <br>
-  💡 Dedicate a portion of the marketing budget to Member-exclusive promotions and rewards to increase the AOV further and convert more non-member customers to "Member" status.
+  💡 Recommendation: Dedicate a portion of the marketing budget to Member-exclusive promotions and rewards to increase the AOV further and convert more non-member customers to "Member" status.
