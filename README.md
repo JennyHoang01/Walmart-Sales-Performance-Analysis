@@ -1,4 +1,4 @@
-## Walmart Sales Performance Analysis
+# Walmart Sales Performance Analysis
 
 This project analyses Walmart retail sales data using SQL and Tableau to uncover sales trends, product performance and customer insights. The focus is on transforming raw transactional data into business-ready KPIs and visual dashboards for decision-making.
 
