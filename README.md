@@ -4,7 +4,13 @@ This project analyses Walmart retail sales data using SQL and Tableau to uncover
 
 ---
 
-## 📂 Dataset
+## 🛠 Tools
+- **SQL (MySQL)** – data wrangling, feature engineering and exploratory analysis  
+- **Tableau** – interactive dashboard and data visualisation
+
+---
+
+## 📂 About the dataset
 This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 
 | Column Name              | Description                                   | Data Type        |
@@ -27,12 +33,6 @@ This dataset contains sales transactions from a three different branches of Walm
 | gross_income             | Gross income from the transaction             | DECIMAL(12, 4)   |
 | rating                   | Customer rating                               | FLOAT(2, 1)      |
 
-
----
-
-## 🛠 Tools
-- **SQL (MySQL)** – data wrangling, feature engineering and exploratory analysis  
-- **Tableau** – interactive dashboard and data visualisation  
 
 ---
 
