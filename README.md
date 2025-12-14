@@ -67,8 +67,10 @@ An interactive Tableau dashboard was created to present:
 - Customer segmentation insights
 - Branch and city performance
 
-The dashboard is designed for non-technical stakeholders, enabling quick exploration through filters.
-![Dashboard screenshot]()
+The dashboard is designed for non-technical stakeholders, enabling quick exploration through filters. 
+
+
+![Dashboard screenshot](Walmart_Sales_Performance_Dashboard.png)
 
 ---
 
