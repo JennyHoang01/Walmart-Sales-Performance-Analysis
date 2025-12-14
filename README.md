@@ -37,7 +37,7 @@ This dataset contains sales transactions from a three different branches of Walm
 ---
 
 ## SQL
-🔎 **Full data exploration in MySQL here:** [SQL Queries]()
+🔎 **Full data exploration in MySQL here:** [SQL Queries](https://github.com/JennyHoang01/Walmart-Sales-Performance-Analysis/blob/main/WalmartSalesAnalysis.sql)
 ### Data Preparation & Feature Engineering (SQL)
 Key transformations performed in MySQL:
 - Remove missing values from database when creating the table by specifying **NOT NULL** for all columns
