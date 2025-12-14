@@ -36,7 +36,8 @@ This dataset contains sales transactions from a three different branches of Walm
 
 ---
 
-## [SQL]()
+## SQL
+🔎 **Full data exploration in MySQL here:** [SQL Queries]()
 ### Data Preparation & Feature Engineering (SQL)
 Key transformations performed in MySQL:
 - Remove missing values from database when creating the table by specifying **NOT NULL** for all columns
@@ -56,7 +57,8 @@ SQL-based EDA was conducted to understand patterns and guide dashboard design, i
 
 Not all exploratory queries are visualised in the final dashboard, some were used to validate assumptions and identify key metrics to surface.
 
-## [Tableau]()
+## Tableau
+🔎 **Check out the dashboard in Tableau Public here:** [Walmart Sales Performance Dashboard](https://public.tableau.com/app/profile/jenny.hoang5680/viz/WalmartSalesPerformanceDashboard_17655349317990/Dashboard1)
 ### Dashboard in Tableau
 An interactive Tableau dashboard was created to present:
 - Overall sales KPIs
